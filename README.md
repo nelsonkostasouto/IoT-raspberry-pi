@@ -1,2 +1,2 @@
 # IoT-raspberry-pi
-Internet of Things project using the Raspberry Pi
+Internet of Things using the Raspberry Pi
